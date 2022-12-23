@@ -1,2 +1,1 @@
-@ECHO OFF
-echo python3 Jesus-C.py
+python Jesus-C.py
